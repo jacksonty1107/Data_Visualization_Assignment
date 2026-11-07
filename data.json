@@ -1,0 +1,58 @@
+[
+  {
+    "Day": "Wednesday, October 28th",
+    "Number of Shirts": 2,
+    "Materials": "Cotton",
+    "# of Changes": 0,
+    "Type of Pants": "Cargo"
+  },
+  {
+    "Day": "Thursday, October 29th",
+    "Number of Shirts": 3,
+    "Materials": "Wool",
+    "# of Changes": 2,
+    "Type of Pants": "Jeans"
+  },
+  {
+    "Day": "Friday, October 30th'",
+    "Number of Shirts": 2,
+    "Materials": "Cotton",
+    "# of Changes": 0,
+    "Type of Pants": "Jeans"
+  },
+  {
+    "Day": "Saturday, October 31st",
+    "Number of Shirts": 1,
+    "Materials": "Polyester",
+    "# of Changes": 0,
+    "Type of Pants": "Jeans"
+  },
+  {
+    "Day": "Sunday, November 1st",
+    "Number of Shirts": 1,
+    "Materials": "Mixed",
+    "# of Changes": 0,
+    "Type of Pants": "Sweatpants"
+  },
+  {
+    "Day": "Monday, November 2nd",
+    "Number of Shirts": 3,
+    "Materials": "Mixed",
+    "# of Changes": 0,
+    "Type of Pants": "Cargo"
+  },
+  {
+    "Day": "Tuesday, November 3rd",
+    "Number of Shirts": 1,
+    "Materials": "Mixed",
+    "# of Changes": 1,
+    "Type of Pants": "Slacks"
+  },
+  {
+    "Day": "Wednesday, November 4th",
+    "Number of Shirts": 1,
+    "Materials": "Cotton",
+    "# of Changes": 2,
+    "Type of Pants": "Slacks"
+  }
+]
